@@ -1,0 +1,5 @@
+dfffgggg
+
+git remote add origin git@github.com:vinay4711/Gitoperation.git
+
+git config --global user.name "vinay4711" 
